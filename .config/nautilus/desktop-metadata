@@ -1,0 +1,39 @@
+[directory]
+nautilus-icon-view-keep-aligned=true
+nautilus-icon-view-layout-timestamp=1558425124
+nautilus-desktop-icon-size=48
+
+[trash]
+nautilus-icon-position-timestamp=1558425124
+nautilus-icon-position=56,26
+icon-scale=1
+
+[UBUNTU 18_1.volume]
+nautilus-icon-position-timestamp=1551719435
+nautilus-icon-position=56,146
+icon-scale=1
+
+[Volume de 16 Go.volume]
+nautilus-icon-position=56,146
+icon-scale=1
+nautilus-icon-position-timestamp=1552309397
+
+[ASUS X008D.volume]
+nautilus-icon-position=56,686
+icon-scale=1
+nautilus-icon-position-timestamp=1554912213
+
+[mtp.volume]
+nautilus-icon-position=56,686
+icon-scale=1
+nautilus-icon-position-timestamp=1556635566
+
+[ANE LX1.volume]
+nautilus-icon-position=56,686
+icon-scale=1
+nautilus-icon-position-timestamp=1557835454
+
+[HiSuite.volume]
+nautilus-icon-position=56,806
+icon-scale=1
+nautilus-icon-position-timestamp=1557835456
